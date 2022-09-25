@@ -1,0 +1,42 @@
+[31-Jul-2018 17:12:56 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/skph4384/public_html/admin/views/info_php.php on line 3
+[31-Jul-2018 17:12:58 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/skph4384/public_html/admin/views/info_php.php on line 3
+[31-Jul-2018 17:13:00 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/skph4384/public_html/admin/views/info_php.php on line 3
+[01-Aug-2018 03:06:59 Asia/Jakarta] PHP Fatal error:  Uncaught Google_IO_Exception: Connection timed out after 100001 milliseconds in /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/IO/Curl.php:115
+Stack trace:
+#0 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/IO/Abstract.php(136): Google_IO_Curl->executeRequest(Object(Google_Http_Request))
+#1 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Http/REST.php(60): Google_IO_Abstract->makeRequest(Object(Google_Http_Request))
+#2 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Task/Runner.php(174): Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#3 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Service/Re in /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/IO/Curl.php on line 115
+[01-Aug-2018 03:08:39 Asia/Jakarta] PHP Fatal error:  Uncaught Google_IO_Exception: Connection timed out after 100001 milliseconds in /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/IO/Curl.php:115
+Stack trace:
+#0 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/IO/Abstract.php(136): Google_IO_Curl->executeRequest(Object(Google_Http_Request))
+#1 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Http/REST.php(60): Google_IO_Abstract->makeRequest(Object(Google_Http_Request))
+#2 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Task/Runner.php(174): Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#3 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/Service/Re in /home/skph4384/public_html/admin/ga/google-api-php-client/src/Google/IO/Curl.php on line 115
+[01-Aug-2018 03:34:50 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:34:50 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:35:08 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:35:08 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:35:45 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:35:45 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:36:29 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:36:29 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:36:32 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:36:32 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:36:57 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:36:57 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:38:18 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:38:18 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:42:31 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:42:31 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:44:17 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:44:17 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:44:42 Asia/Jakarta] PHP Warning:  include_once(../../opcache/index.php): failed to open stream: No such file or directory in /home/skph4384/public_html/admin/home.php on line 257
+[01-Aug-2018 03:44:42 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../../opcache/index.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/skph4384/public_html/admin/home.php on line 257
+[23-Apr-2019 16:28:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/skph4384/public_html/admin/classes/class_calendar.php on line 21
+[23-Apr-2019 16:28:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/skph4384/public_html/admin/classes/class_calendar.php on line 21
+[23-Apr-2019 16:28:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/skph4384/public_html/admin/classes/class_calendar.php on line 21

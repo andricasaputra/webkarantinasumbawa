@@ -1,0 +1,83 @@
+[31-Jul-2018 14:55:25 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/skph4384/public_html/views/data/hitung_tarif.php on line 27
+[31-Jul-2018 14:55:25 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/skph4384/public_html/views/data/hitung_tarif.php on line 28
+[31-Jul-2018 14:55:25 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/skph4384/public_html/admin/classes/class_tarif.php on line 40
+[31-Jul-2018 14:55:25 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[31-Jul-2018 14:55:25 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[26-Nov-2018 14:17:41 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[26-Nov-2018 14:17:41 Asia/Jakarta] PHP Stack trace:
+[26-Nov-2018 14:17:41 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[26-Nov-2018 14:17:41 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[26-Nov-2018 14:17:41 Asia/Jakarta] PHP Stack trace:
+[26-Nov-2018 14:17:41 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/skph4384/public_html/views/data/hitung_tarif.php on line 27
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP Stack trace:
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP Notice:  A non well formed numeric value encountered in /home/skph4384/public_html/views/data/hitung_tarif.php on line 28
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP Stack trace:
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP Stack trace:
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP Stack trace:
+[03-Dec-2018 14:03:53 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[30-Jan-2019 20:04:47 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[30-Jan-2019 20:04:47 Asia/Jakarta] PHP Stack trace:
+[30-Jan-2019 20:04:47 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[30-Jan-2019 20:04:47 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[30-Jan-2019 20:04:47 Asia/Jakarta] PHP Stack trace:
+[30-Jan-2019 20:04:47 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[08-Feb-2019 11:59:46 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[08-Feb-2019 11:59:46 Asia/Jakarta] PHP Stack trace:
+[08-Feb-2019 11:59:46 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[08-Feb-2019 11:59:46 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[08-Feb-2019 11:59:46 Asia/Jakarta] PHP Stack trace:
+[08-Feb-2019 11:59:46 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[13-Mar-2019 14:23:54 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[13-Mar-2019 14:23:54 Asia/Jakarta] PHP Stack trace:
+[13-Mar-2019 14:23:54 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[13-Mar-2019 14:23:54 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[13-Mar-2019 14:23:54 Asia/Jakarta] PHP Stack trace:
+[13-Mar-2019 14:23:54 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:43:49 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[16-May-2019 08:43:49 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:43:49 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:43:49 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[16-May-2019 08:43:49 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:43:49 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:51:25 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[16-May-2019 08:51:25 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:51:25 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:51:25 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[16-May-2019 08:51:25 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:51:25 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:53:32 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[16-May-2019 08:53:32 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:53:32 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:53:32 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[16-May-2019 08:53:32 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:53:32 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:54:16 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[16-May-2019 08:54:16 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:54:16 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:54:16 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[16-May-2019 08:54:16 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:54:16 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:54:48 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[16-May-2019 08:54:48 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:54:48 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[16-May-2019 08:54:48 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[16-May-2019 08:54:48 Asia/Jakarta] PHP Stack trace:
+[16-May-2019 08:54:48 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[03-Jun-2019 05:57:47 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[03-Jun-2019 05:57:47 Asia/Jakarta] PHP Stack trace:
+[03-Jun-2019 05:57:47 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[03-Jun-2019 05:57:47 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[03-Jun-2019 05:57:47 Asia/Jakarta] PHP Stack trace:
+[03-Jun-2019 05:57:47 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[13-Jun-2019 21:46:43 Asia/Jakarta] PHP Notice:  Undefined variable: satuan in /home/skph4384/public_html/views/data/hitung_tarif.php on line 61
+[13-Jun-2019 21:46:43 Asia/Jakarta] PHP Stack trace:
+[13-Jun-2019 21:46:43 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
+[13-Jun-2019 21:46:43 Asia/Jakarta] PHP Notice:  Undefined variable: satuan2 in /home/skph4384/public_html/views/data/hitung_tarif.php on line 62
+[13-Jun-2019 21:46:43 Asia/Jakarta] PHP Stack trace:
+[13-Jun-2019 21:46:43 Asia/Jakarta] PHP   1. {main}() /home/skph4384/public_html/views/data/hitung_tarif.php:0
