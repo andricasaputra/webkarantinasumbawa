@@ -6,7 +6,7 @@ require_once __DIR__ . '/facebook-sdk/src/Facebook/autoload.php';
 
 $fb = new Facebook\Facebook([
 	'app_id' => '551858005669631',
-	'app_secret' => '13340a8c8f6f5977c366dcd1a4fdfc9f',
+	'app_secret' => '850560101df764e6a039c076684712d',
 	'graph_api_version' => 'v5.0',
 ]);
 

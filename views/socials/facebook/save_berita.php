@@ -14,8 +14,9 @@ $connect = $db->getConnection();
 $conn = new berita($db);
 
 $fb = new Facebook\Facebook([
+  //'app_secret' => '850560101df764e6a039', 
 	'app_id' => '2602415166709198',
-	'app_secret' => 'ebce5c55a00f212c7e2a33efd4d1b9cb',
+	'app_secret' => '7684bb15531ae16e91e213fcd10f1f60',
 	'graph_api_version' => 'v5.0',
 ]);
 
@@ -25,7 +26,7 @@ try {
   // Returns a `Facebook\FacebookResponse` object
   $response = $fb->get(
     '556266944928036?fields=posts.limit(10){full_picture,message}',
-    'EAAkZB4fZBR3c4BAD9YxU45L20zrKuuRfHBdlD216fuQ0ZCoYhMQjes5qfjeFvr4kkE1VpwDP9nj6ppx1UjWHSYKKaZCYoIdT52It1Ei1zCGMyzsq3eVoQcZAlckYbebyDy3d6u2zhMMfXaHq5zwa1hKHu42oAPreHpthrLfmZAQtgKp9NvZAz7TKH725vJiGzeA5VgVdTPdsDATZA58F6lP6ifAWbzu3Y1cHXYOHclziXRkGqpp58L84sXmSKzm3TC8ZD'
+    'EAAkZB4fZBR3c4BAE0JsFU0UpDi31nWCcaByNh78kg1wiE3l7wRCIvXoZCGqt7faJnslFoxjK1j9ybPeQxQe1Vr6FgJvVoZBnJmA8amMJlZADe1dmPxWIaELm0W9ZBVBzv1ckGPGX8ELLSPguI840oKxYZByAt5fHIwBcqEcifP7rwuRUgzae9Y4SZCDj7E3BTgMZD'
   );
 } catch(Facebook\Exceptions\FacebookResponseException $e) {
   echo 'Graph returned an error: ' . $e->getMessage();
