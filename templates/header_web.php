@@ -246,7 +246,7 @@
 						<ul class="no-sub">
 							<li>	<a class="dropdown-item prev" href="#">PPID</a>
 								<ul>
-									<li>	<a href="http://skp1sumbawabesar.ppid.pertanian.go.id/" target="_blank">Portal PPID</a>
+									<li>	<a href="http://skp1sumbawabesar-ppid.pertanian.go.id/" target="_blank">Portal PPID</a>
 									</li>
 									<li class="last">	<a href="ppid?hak_informasi">Hak Atas Informasi</a>
 									</li>

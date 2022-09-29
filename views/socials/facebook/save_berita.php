@@ -26,7 +26,7 @@ try {
   // Returns a `Facebook\FacebookResponse` object
   $response = $fb->get(
     '556266944928036?fields=posts.limit(10){full_picture,message}',
-    'EAAkZB4fZBR3c4BAE0JsFU0UpDi31nWCcaByNh78kg1wiE3l7wRCIvXoZCGqt7faJnslFoxjK1j9ybPeQxQe1Vr6FgJvVoZBnJmA8amMJlZADe1dmPxWIaELm0W9ZBVBzv1ckGPGX8ELLSPguI840oKxYZByAt5fHIwBcqEcifP7rwuRUgzae9Y4SZCDj7E3BTgMZD'
+    'EAAkZB4fZBR3c4BAKbZARjZCn8OWlc4LyYuzy4dSIpgy3kTVZAvi9VsyOuHtdBH11CGM9BZAGX6xZBU5MgqQ79UrorAAqrowDv42B9t85VPcj7hoHq28c29ADuZAJboAMK7K0iANhI0YQc1hMtMEq2I7G682QjeV58yAbzHDXBXiEUGeJt0UygC8cPKT1OTvhutsZD'
   );
 } catch(Facebook\Exceptions\FacebookResponseException $e) {
   echo 'Graph returned an error: ' . $e->getMessage();

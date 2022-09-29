@@ -7,7 +7,7 @@
 						<h2 class="judul text-center" style="color: black">Dasar Hukum</h2>
 					</div>						
 					 <div class="col-sm-12" style="margin-bottom: 40px">
-						 	<img data-frz-src="assets/img/spp/new/dasarhukum.png" alt="standar" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== onload=lzld(this) onerror=lzld(this) class="img-responsive" style="border-radius: 15px"/>	 
+						 	<img data-frz-src="assets/img/spp/new/dasarhukum_new.png" alt="standar" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== onload=lzld(this) onerror=lzld(this) class="img-responsive" style="border-radius: 15px"/>	 
 					 </div>
 					 <div class="row">
 					 	<div class="col-md-6">

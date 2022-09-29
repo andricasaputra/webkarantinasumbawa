@@ -313,7 +313,7 @@ require_once('templates/head.php');
 								<h2 class="judul text-center">Stuktur Organisasi</h2>
 							</div>						
 							 <p>
-							 	<img data-frz-src="assets/img/org/struktur_organisasi.png" width="700" alt="struktur_organisasi" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== onload=lzld(this) onerror=lzld(this) />	 
+							 	<img data-frz-src="assets/img/spp/new/struktur_organisasi-22.png" width="700" alt="struktur_organisasi" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== onload=lzld(this) onerror=lzld(this) />	 
 							</p>
 							<br>
 							<a href="home" class="button-cta btn-berita">Kembali</a>
