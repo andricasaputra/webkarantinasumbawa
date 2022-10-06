@@ -595,6 +595,24 @@ class berita{
 	private function __clone() { 
 
 	}
+
+	public function fb_access_token(){
+		$sql = "SELECT id, access_token FROM acces_token";
+		$query = $this->db->query($sql) or die ($this->db->error);
+		return $query;
+	}
+
+	public function insert_fb_access_token($acces_token){
+		$sql = "INSERT INTO acces_token (access_token) VALUES('$acces_token')";
+		$query = $this->db->query($sql) or die ($this->db->error);
+		return $query;
+	}
+
+	public function update_fb_access_token($acces_token, $id){
+		$sql = "UPDATE acces_token SET access_token = '". $acces_token ."' WHERE id = '".$id."' ";
+		$query = $this->db->query($sql) or die ($this->db->error);
+		return $query;
+	}
 }
 
 ?>

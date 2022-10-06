@@ -25,7 +25,7 @@ try {
   // Returns a `Facebook\FacebookResponse` object
   $response = $fb->get(
     '556266944928036?fields=posts{full_picture}',
-    'EAAkZB4fZBR3c4BAKbZARjZCn8OWlc4LyYuzy4dSIpgy3kTVZAvi9VsyOuHtdBH11CGM9BZAGX6xZBU5MgqQ79UrorAAqrowDv42B9t85VPcj7hoHq28c29ADuZAJboAMK7K0iANhI0YQc1hMtMEq2I7G682QjeV58yAbzHDXBXiEUGeJt0UygC8cPKT1OTvhutsZD'
+    (new berita($db))->fb_access_token()->fetch_object()->access_token
   );
 } catch(Facebook\Exceptions\FacebookResponseException $e) {
   echo 'Graph returned an error: ' . $e->getMessage();

@@ -1,6 +1,14 @@
 <?php  
 
 require_once __DIR__ . '/facebook-sdk/src/Facebook/autoload.php';
+require_once('../../../admin/config/database.php');
+require_once('../../../admin/classes/class_berita.php');
+
+
+/*Class Database Instance Static*/
+
+$db = Database::getInstance();
+$connect = $db->getConnection();
 
 $fb = new Facebook\Facebook([
 	'app_id' => '2602415166709198',
@@ -12,9 +20,10 @@ $fb = new Facebook\Facebook([
 /* make the API call */
 try {
   // Returns a `Facebook\FacebookResponse` object
+  var_dump($token);die;
+  $token = (new berita($db))->fb_access_token()->fetch_object()->access_token;
   $response = $fb->get(
-    '1880606578875838?fields=posts{full_picture,message}',
-    'EAAkZB4fZBR3c4BAPbO05JT8Pjy0x0p2yrGm075M2CMEW4gZAbIXx0t7mHLKv33qXrT6aB5jQlxvDA0H3zPGvJoghMOev0mzqqnwpcXeJhmTNbzZBg8SskT8sMi6ikQy6j71vu2y6AZC2axZCybWP0noRW0vatOZCkKzJKgYMsg9PgZDZD'
+    $token
   );
 } catch(Facebook\Exceptions\FacebookResponseException $e) {
   echo 'Graph returned an error: ' . $e->getMessage();

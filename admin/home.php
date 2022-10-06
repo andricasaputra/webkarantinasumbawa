@@ -140,6 +140,7 @@ require_once('templates/header.php');
               </span>
           </a>
           <ul class="treeview-menu">
+            <li><a href="?halaman=fb_access_token"><i class="fa fa-line-chart"></i> <span>FB Access Token</span></a></li>
             <li><a href="?halaman=analitycs"><i class="fa fa-line-chart"></i> <span>Analitycs</span></a></li>
             <li><a href="?halaman=info_cache"><i class="fa fa-gear"></i> <span>Cached Data</span></a></li>
             <li><a href="?halaman=info_php"><i class="fa fa-info"></i> <span>PHP Info</span></a></li>
@@ -294,6 +295,10 @@ require_once('templates/header.php');
       }elseif (@$_GET['halaman'] == 'analitycs') {
             
             include_once('ga/info_analitycs.php');
+
+      }elseif (@$_GET['halaman'] == 'fb_access_token') {
+            
+            include_once('views/fb_access_token.php');
 
       }
 
