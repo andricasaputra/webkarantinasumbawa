@@ -12,7 +12,7 @@ $connect = $db->getConnection();
 
 $fb = new Facebook\Facebook([
 	'app_id' => '2602415166709198',
-	'app_secret' => 'ebce5c55a00f212c7e2a33efd4d1b9cb',
+	'app_secret' => '7684bb15531ae16e91e213fcd10f1f60',
 	'graph_api_version' => 'v5.0',
 ]);
 
@@ -20,7 +20,6 @@ $fb = new Facebook\Facebook([
 /* make the API call */
 try {
   // Returns a `Facebook\FacebookResponse` object
-  var_dump($token);die;
   $token = (new berita($db))->fb_access_token()->fetch_object()->access_token;
   $response = $fb->get(
     $token

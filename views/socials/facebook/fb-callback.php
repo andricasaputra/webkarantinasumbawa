@@ -4,7 +4,7 @@ session_start();
 
 $fb = new Facebook\Facebook([
   'app_id' => '2602415166709198',
-  'app_secret' => 'ebce5c55a00f212c7e2a33efd4d1b9cb',
+  'app_secret' => '7684bb15531ae16e91e213fcd10f1f60',
   'graph_api_version' => 'v5.0',
 ]);
 

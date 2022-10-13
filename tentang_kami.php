@@ -606,7 +606,7 @@ require_once('templates/head.php');
 						<div class="mz-module" >
 							<div class="mz-module-about">
 								<div class="section-title">
-									<h2 class="judul text-center sub" style="">Kepala Urusan Tata Usaha</h2>
+									<h2 class="judul text-center sub" style="">Penanggungjawab Kesekretariatan</h2>
 								</div>		
 								<img data-frz-src="assets/img/org/pakandik.jpg" width="150" style="position: relative; margin-left: 30px" alt="struktural" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== onload=lzld(this) onerror=lzld(this) />	
 								
@@ -629,7 +629,7 @@ require_once('templates/head.php');
 							 		<tr>
 							 			<td>Jabatan</td>
 							 			<td>:</td>
-							 			<td>Kepala Urusan Tata Usaha  SKP Kelas I Sumbawa Besar</td>
+							 			<td>Penanggungjawab Kesekretariatan SKP Kelas I Sumbawa Besar</td>
 							 		</tr>
 							 		<tr>
 							 			<td>Email</td>
@@ -658,7 +658,7 @@ require_once('templates/head.php');
 						<div class="mz-module" >
 							<div class="mz-module-about">
 								<div class="section-title">
-									<h2 class="judul text-center sub" style="">Kepala Subseksi Pelayanan dan Operasional</h2>
+									<h2 class="judul text-center sub" style="">Penanggungjawab Yan Ops</h2>
 								</div>		
 								<img data-frz-src="assets/img/org/paksalam.jpg" width="150" style="position: relative; margin-left: 30px" alt="struktural" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== onload=lzld(this) onerror=lzld(this) />	
 								
@@ -681,7 +681,7 @@ require_once('templates/head.php');
 							 		<tr>
 							 			<td>Jabatan</td>
 							 			<td>:</td>
-							 			<td>Kepala Subseksi Pelayanan dan Operasional  SKP Kelas I Sumbawa Besar</td>
+							 			<td>Penanggungjawab Yan Ops SKP Kelas I Sumbawa Besar</td>
 							 		</tr>
 							 		<tr>
 							 			<td>Email</td>
